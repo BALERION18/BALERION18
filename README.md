@@ -8,7 +8,7 @@
 
 - 📫 How to reach me : **logdivyansh@gmail.com**
 
-- ⚡ Fun fact : **My caffeine intake is directly proportional to their approaching deadlines! ☕**
+- ⚡ Fun fact : **My caffeine intake is directly proportional to the approaching deadlines! ☕**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
