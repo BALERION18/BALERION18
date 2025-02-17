@@ -1,4 +1,4 @@
-![logo](C:\Users\logdi\OneDrive\Desktop)
+![image](https://qrangers.com/wp-content/uploads/2021/09/Banner-Introduction-to-3D-Animation.png)
 <h1 align="center">Hi 👋, I'm Divyansh</h1>
 <h3 align="center">A passionate engineering student from India</h3>
 
@@ -12,7 +12,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/Divyansh Patel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Divyansh Patel" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/divyansh-patel-147084206/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="divyansh patel" height="30" width="40" /></a>
 <a href="https://instagram.com/divyansh_._.18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="divyansh_._.18" height="30" width="40" /></a>
 </p>
 
