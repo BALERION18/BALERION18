@@ -10,6 +10,8 @@
 
 - ⚡ Fun fact : **My caffeine intake is directly proportional to the approaching deadlines! ☕**
 
+- 🕶️ Hobby: **Playing PC games, Listening music, Sketching, watching webseries,anime**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/divyansh-patel-147084206/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="divyansh patel" height="30" width="40" /></a>
