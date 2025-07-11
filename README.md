@@ -2,6 +2,7 @@
 # 💫 About Me:
 🔭 I’m currently working on : Web-dev, ML<br>📫 How to reach me : logdivyansh@gmail.com<br>💬 Ask me about : Anything😊<br>⚡ Fun fact : My caffeine intake is directly proportional to my work! ☕
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=BALERION18&label=Profile%20views&color=0e75b6&style=flat" alt="BALERION18" /> </p>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/hzBBw4sH) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/divyansh.patel.5895/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/divyansh_._.18/?hl=en) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divyansh-patel18/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/Divyans97723505) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:logdivyansh@gmail.com) 
@@ -22,4 +23,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=BALERION18&icon=9&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
