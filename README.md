@@ -1,4 +1,4 @@
-![image](https://qrangers.com/wp-content/uploads/2021/09/Banner-Introduction-to-3D-Animation.png)
+![MasterHead](https://camo.githubusercontent.com/4c3fd71b359cd5dfadc21247cde8f16ecbe5d41db8ac79ef28e3091ab02a8bef/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f6d61785f313230302f3831626234623136353638343031392e363430623630333864313333652e676966)
 # 💫 About Me:
 🔭 I’m currently working on : Web-dev, ML<br>📫 How to reach me : logdivyansh@gmail.com<br>💬 Ask me about : Anything😊<br>⚡ Fun fact : My caffeine intake is directly proportional to my work! ☕
 
